@@ -1,0 +1,21 @@
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Служебные файлы ОС и редакторов
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Временные файлы QGIS
+*.qgs~
+*.qgz~
