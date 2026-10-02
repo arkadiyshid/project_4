@@ -19,3 +19,5 @@ desktop.ini
 # Временные файлы QGIS
 *.qgs~
 *.qgz~
+
+*sample*.txt
